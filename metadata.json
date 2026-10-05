@@ -1,0 +1,6 @@
+{
+  "name": "L'odyssée d'une Vie - Gestion de Réservations & Billetterie",
+  "description": "Application en ligne de réservation, génération de tickets pré-imprimés PNG et gestion de classeur Excel pour l'événement musical L'odyssée d'une Vie à la Cité des Cultures Antaninarenina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
